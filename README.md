@@ -12,6 +12,9 @@ C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
 ## Metrics :
 ![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-aamer&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
+![Profile views](https://gpvc.arturio.dev/hamza-aamer)  
+
 
 ## Socials :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamza-aamer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamza-aamer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sober_hamza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hamzaaamer6)  
@@ -22,9 +25,6 @@ C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-aamer)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-aamer&show_icons=true)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
 
-![Profile views](https://gpvc.arturio.dev/hamza-aamer)  
