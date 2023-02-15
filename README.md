@@ -11,7 +11,8 @@ To view my current skills and experience, please check out my LinkedIn profile [
 C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
 ## Metrics :
-![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  
+![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-aamer)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-aamer&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
 ![Profile views](https://gpvc.arturio.dev/hamza-aamer)  
 
@@ -21,9 +22,7 @@ C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamza-aamer)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-aamer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
