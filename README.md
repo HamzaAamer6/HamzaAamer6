@@ -7,9 +7,9 @@ I'm always looking for ways to expand my skillset and become a more advanced pro
 
 To view my current skills and experience, please check out my LinkedIn profile [here!](https://www.linkedin.com/in/hamza-aamer/) . I'm excited to see what the future holds for me!
 
-Skills: C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
+##Skills
+C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
-- 🔭 I’m currently working on FreeLancing 
 
 ![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  
 
