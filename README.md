@@ -1,7 +1,5 @@
 ### Hi there 👋, Hamza Aamer
 #### Student, Programmer, and Machine Learning Enthusiast
-![Student, Programmer, and Machine Learning Enthusiast](https://user-images.githubusercontent.com/88921596/219162922-16f8649f-1fef-4c8b-ad39-81ed1bf6c2c3.gif)
-
 
 I'm Hamza, currently studying at FAST NUCES Islamabad in Pakistan. I'm passionate about learning programming languages, gathering certifications, and using them to solve real-world problems. I'm especially passionate about Machine Learning and Artificial Intelligence. 
 
