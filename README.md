@@ -13,7 +13,7 @@ To view my current skills and experience, please check out my LinkedIn profile [
 C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
 ## Metrics :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-aamer&theme=blue-green)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-aamer&theme=blue-green)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer&theme=blue-green)  
 ![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  
 
 
