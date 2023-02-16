@@ -1,4 +1,4 @@
-![Github Banner (700 × 200 px) (2)](https://user-images.githubusercontent.com/88921596/219441149-94353983-8b1f-4a38-84a4-a6c72387a6f3.gif)
+![Banner](https://user-images.githubusercontent.com/88921596/219447104-7c98c502-3fa8-42cd-b621-f41d4ce50852.gif)
 
 # Hamza Aamer 
 ## Student, Programmer, and Machine Learning Enthusiast
