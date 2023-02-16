@@ -1,3 +1,4 @@
+![Github Banner (700 × 200 px) (2)](https://user-images.githubusercontent.com/88921596/219441149-94353983-8b1f-4a38-84a4-a6c72387a6f3.gif)
 
 # Hamza Aamer 
 ## Student, Programmer, and Machine Learning Enthusiast
@@ -12,7 +13,7 @@ To view my current skills and experience, please check out my LinkedIn profile [
 C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
 ## Metrics :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username={hamza-aamer}&theme=blue-green)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
+![GitHub stats]((https://github-readme-stats.vercel.app/api?username=hamza-aamer))  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
 ![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  
 
 
