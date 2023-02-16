@@ -10,8 +10,9 @@ I'm always looking for ways to expand my skillset and become a more advanced pro
 To view my current skills and experience, please check out my LinkedIn profile [here!](https://www.linkedin.com/in/hamza-aamer/) . I'm excited to see what the future holds for me!
 
 ## Skills :
-C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![.net](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![py](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![AS](https://img.shields.io/badge/AssemblyScript-007AAC.svg?style=for-the-badge&logo=AssemblyScript&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) 
 
+And MUCH more!
 ## Metrics :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-aamer&theme=blue-green)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer&theme=blue-green)  
 ![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  
