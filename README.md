@@ -1,6 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/88921596/219382272-97333290-0639-4f1a-89ab-6fe9f411de94.gif)
 
-# Hamza Aamer
+# Hamza Aamer 
 ## Student, Programmer, and Machine Learning Enthusiast
 
 I'm Hamza, currently studying at FAST NUCES Islamabad in Pakistan. I'm passionate about learning programming languages, gathering certifications, and using them to solve real-world problems. I'm especially passionate about Machine Learning and Artificial Intelligence. 
@@ -13,7 +12,7 @@ To view my current skills and experience, please check out my LinkedIn profile [
 C++ / C# / Java / Python / MATLAB / Assembly / Arduino / OOP & Much More!
 
 ## Metrics :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-aamer&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username={hamza-aamer}&theme=blue-green)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamza-aamer)  
 ![GitHub metrics](https://metrics.lecoq.io/hamza-aamer)  
 
 
