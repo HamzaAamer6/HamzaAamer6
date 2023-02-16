@@ -1,5 +1,4 @@
 ![Banner](https://user-images.githubusercontent.com/88921596/219382272-97333290-0639-4f1a-89ab-6fe9f411de94.gif)
-![dino](https://user-images.githubusercontent.com/88921596/219170634-b9eb8791-2bcc-4257-8a23-03b00d5add34.gif)
 
 # Hamza Aamer
 ## Student, Programmer, and Machine Learning Enthusiast
