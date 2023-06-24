@@ -30,14 +30,6 @@ And MUCH more!
     <img src="https://streak-stats.demolab.com/?user=hamza-aamer&theme=github-dark-blue" alt="hamza-aamer" height="192px"/>
 
 
-## <h2 align="center">Metrics :
-<br>
-    <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="my stats" src="https://metrics.lecoq.io/hamza-aamer" height="auto"/></a>
-<br/>
-
-
-
 
 ## <h2 align="center">Socials :
 <br>
