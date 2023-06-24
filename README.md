@@ -21,6 +21,13 @@ To view my current skills and experience, please check out my LinkedIn profile [
 
 And MUCH more!
 
+## <h2 align="center">Stats :
+  <p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=hamza-aamer&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
+<br/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-aamer&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="hamza-aamer" height="192px"/>
+    <img src="https://streak-stats.demolab.com/?user=hamza-aamer&theme=github-dark-blue" alt="hamza-aamer" height="192px"/>
+
 
 
 ## <h2 align="center">Socials :
@@ -29,12 +36,5 @@ And MUCH more!
 <h4 align="center">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamza-aamer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamza-aamer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sober_hamza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hamzaaamer6)  
-
-
-
-<br>
-    <p align="center">
-	<img alt="my stats" src="https://gpvc.arturio.dev/hamza-aamer" height="auto"/></a>
-<br/>
 
 
