@@ -22,14 +22,6 @@ To view my current skills and experience, please check out my LinkedIn profile [
 And MUCH more!
 
 
-## <h2 align="center">Stats :
-  <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=hamza-aamer&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
-<br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-aamer&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="hamza-aamer" height="192px"/>
-    <img src="https://streak-stats.demolab.com/?user=hamza-aamer&theme=github-dark-blue" alt="hamza-aamer" height="192px"/>
-
-
 
 ## <h2 align="center">Socials :
 <br>
