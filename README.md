@@ -1,5 +1,4 @@
-
-![Banner](https://user-images.githubusercontent.com/88921596/219447104-7c98c502-3fa8-42cd-b621-f41d4ce50852.gif)
+![Banner](https://github.com/hamza-aamer/hamza-aamer/assets/88921596/54e2c1fb-eeb8-457d-ac27-a0246179f89c)
 
 
 <h1 align="center">Hi , I'm Hamza Aamer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
